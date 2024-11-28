@@ -1,0 +1,9 @@
+main {
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+img {
+    aspect-ratio: 4 / 3;
+    width: 100%;
+}
