@@ -6,3 +6,12 @@ p {
     max-width: 80ch;
     margin: auto;
 }
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: red
+    }
+
+   img {
+        width: 20%;
+    }
+}

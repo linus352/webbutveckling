@@ -1,5 +1,10 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
 h1 {
-    color: blue;
+    color: crimson;
 }
 
 
@@ -8,5 +13,3 @@ h3{
     color: hsl(160, 100%, 75%);
 
 }
-text-align; aside
-

@@ -7,3 +7,12 @@ img {
     aspect-ratio: 4 / 3;
     width: 100%;
 }
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: blue;
+    }
+
+   img {
+        width: 20%;
+    }
+}
